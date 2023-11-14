@@ -1,0 +1,3 @@
+﻿  guess the number.cpp
+C:\Users\gular\source\repos\guess the number\guess the number\guess the number.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  guess the number.vcxproj -> C:\Users\gular\source\repos\guess the number\Debug\guess the number.exe
